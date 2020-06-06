@@ -10,6 +10,7 @@ Each respective `c` source code is the following task scheduling algorithm.
 
 *the following image is taken from Operating Systems Book by William stallings*
 This simulation take input of the information showed on the following table.
+
 ![Process Table ](/images/Process.png)
 
 Then Each algorithm do the processing visualized by the following 
@@ -17,4 +18,6 @@ Then Each algorithm do the processing visualized by the following
 
 then the result summary is showed by the following
 ![Result](/images/Result.png)
+
+
 
